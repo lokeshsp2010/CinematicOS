@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Cinematic OS Banner" src="https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1200&auto=format&fit=crop" />
+  <img width="100%" alt="Cinematic OS Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
   <br/>
   <br/>
@@ -42,3 +42,38 @@ Built with a relentless focus on a sleek, minimalist user experience and high-pe
 git clone [https://github.com/your-username/cinematic-os.git](https://github.com/your-username/cinematic-os.git)
 cd cinematic-os
 npm install
+2. Configure Environment
+Create a .env.local file in the root directory and add your Gemini API key:
+
+Code snippet
+# Required for Gemini AI API calls
+GEMINI_API_KEY="your_gemini_api_key_here"
+
+# Used for self-referential links and callbacks
+APP_URL="http://localhost:3000"
+3. Launch the Engine
+
+Bash
+npm run dev
+Navigate to http://localhost:3000 to experience the system.
+
+🧠 Architecture
+The system utilises a modular, component-driven architecture:
+
+src/main.tsx: Core application entry and provider orchestration.
+
+vite.config.ts: Optimised build pipeline with seamless environment injection.
+
+AI Integration: Direct streaming and parsing through the @google/genai SDK for real-time creative generation.
+
+🤝 Connect & Collaborate
+I specialise in building intelligent AI agents, multi-model orchestration platforms, and immersive digital environments.
+
+If you are interested in autonomous creative systems, advanced prompt engineering, or want to see what else I'm building, let's connect.
+
+GitHub: @lokeshsp2010
+
+Portfolio/Website: menumind.in
+Links: Make sure to swap out your-username, your-link.com, and your-handle in the "Connect & Collaborate" section to directly funnel traffic to your GitHub profile and other platforms.
+
+Pin It: Once you push this README, go to your main GitHub profile overview and pin this repository so it's the first thing recruiters and collaborators see.
