@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Cinematic OS Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="100%" alt="Cinematic OS Banner" src="https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1200&auto=format&fit=crop" />
 
   <br/>
   <br/>
