@@ -58,22 +58,15 @@ npm run dev
 Navigate to http://localhost:3000 to experience the system.
 
 🧠 Architecture
-The system utilises a modular, component-driven architecture:
+The system utilizes a modular, component-driven architecture:
 
 src/main.tsx: Core application entry and provider orchestration.
 
-vite.config.ts: Optimised build pipeline with seamless environment injection.
+vite.config.ts: Optimized build pipeline with seamless environment injection.
 
 AI Integration: Direct streaming and parsing through the @google/genai SDK for real-time creative generation.
 
 🤝 Connect & Collaborate
-I specialise in building intelligent AI agents, multi-model orchestration platforms, and immersive digital environments.
+I specialize in building intelligent AI agents, multi-model orchestration platforms, and immersive digital environments.
 
 If you are interested in autonomous creative systems, advanced prompt engineering, or want to see what else I'm building, let's connect.
-
-GitHub: @lokeshsp2010
-
-Portfolio/Website: menumind.in
-Links: Make sure to swap out your-username, your-link.com, and your-handle in the "Connect & Collaborate" section to directly funnel traffic to your GitHub profile and other platforms.
-
-Pin It: Once you push this README, go to your main GitHub profile overview and pin this repository so it's the first thing recruiters and collaborators see.
